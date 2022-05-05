@@ -1,2 +1,2 @@
-# laso
+# LASO
 LArge Scale Optimization
